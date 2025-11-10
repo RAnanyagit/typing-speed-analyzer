@@ -47,14 +47,14 @@ index.js - React entry point
 
 ![Landing Page](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Landing%20Page.jpg)
 
-                                     Landing Page
+                                     ## Landing Page
 
 ![Typing Test](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Typing%20Test.jpg)
 
-                                      Typing Test
+                                      ## Typing Test
 
 
 ![Test Results](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Test%20Results.jpg)
 
-                                       Result Page
+                                      ## Result Page
 
