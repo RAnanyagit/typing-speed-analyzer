@@ -43,13 +43,11 @@ index.js - React entry point
 - Personalized training plans based on performance
 - Mobile app version
 
-## 📸 Screenshots
+## Screenshots
 
-### 🧠 Typing Test
-![Typing Test](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Screenshots/Typing%20Test.jpg)
+![Typing Test](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Typing%20Test.jpg)
 
-### 🏠 Landing Page
-![Landing Page](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Screenshots/Landing%20Page.jpg)
+![Landing Page](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Landing%20Page.jpg)
 
-### 📊 Test Results
-![Test Results](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Screenshots/Test%20Results.jpg)
+![Test Results](https://raw.githubusercontent.com/RAnanyagit/typing-speed-analyzer/main/Test%20Results.jpg)
+
