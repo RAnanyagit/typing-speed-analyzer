@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-color: #18122B;  /* dark purple-black */
+  color: #F3EFF5;             /* off-white */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Typing-challenge-container,
+.details-container,
+.-container {
+  background-color: #231942;  /* deeper purple for cards/containers */
+  color: #F3EFF5;
+}
+
+button {
+  background: #5E548E;        /* purple */
+  color: #F3EFF5;
+  border: 1px solid #9F86C0;  /* lighter purple accent */
+}
+
+a {
+  color: #BE95C4;             /* link accent */
+}
+
+code {
+  background-color: #312959;
+  color: #FFD700;
+}
